@@ -1,0 +1,2 @@
+# prestathumbzoom
+Module for Prestashop
